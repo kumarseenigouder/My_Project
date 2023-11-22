@@ -1,4 +1,2 @@
-# Crop_Recommendation
+# Crop_Recommendation System
 
-+ Introduction
--
